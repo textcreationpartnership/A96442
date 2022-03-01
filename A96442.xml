@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to Mr. Francis Cornvvells positions &amp; inferences, concerning dipping, anabaptisme, antipædobaptisme, tythes, and consecrated churches. Wherein the English Ministry is vindicated from the Anti-Christianisme, so deeply by him charged upon them. Published in speciall reference to the good of Mr Cornwells misled congregation. / By Robert Whittle, minister of the word of God at East-Malling in Kent. Whereunto are annexed, the fore-mentioned positions of Mr Francis Cornvvell, entituled, the Nevv Testament ratified with the blood of the Lord Jesus, is the Magna Charta of Beleevers in Jesus the Christ dipped; by which they are justified to be no hereticks.</title>
+            <author>Whittle, Robert, 1597 or 8-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96442</idno>
+            <idno type="STC">Wing W2046</idno>
+            <idno type="STC">Thomason E516_1</idno>
+            <idno type="STC">ESTC R206141</idno>
+            <idno type="EEBO-CITATION">99865319</idno>
+            <idno type="PROQUEST">99865319</idno>
+            <idno type="VID">117558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117558)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E516[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to Mr. Francis Cornvvells positions &amp; inferences, concerning dipping, anabaptisme, antipædobaptisme, tythes, and consecrated churches. Wherein the English Ministry is vindicated from the Anti-Christianisme, so deeply by him charged upon them. Published in speciall reference to the good of Mr Cornwells misled congregation. / By Robert Whittle, minister of the word of God at East-Malling in Kent. Whereunto are annexed, the fore-mentioned positions of Mr Francis Cornvvell, entituled, the Nevv Testament ratified with the blood of the Lord Jesus, is the Magna Charta of Beleevers in Jesus the Christ dipped; by which they are justified to be no hereticks.</title>
+                  <author>Whittle, Robert, 1597 or 8-1679.</author>
+                  <author>Cornwell, Francis. New testament ratified with the blood of the Lord Jesus.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H. and are to be sold by George Badger in S. Dunstans Churchyard in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646 [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117558:1"/>
+            <pb facs="tcp:117558:1" rendition="simple:additions"/>
+            <p>AN ANSVVER TO M<hi rend="sup">r</hi> Francis Cornvvells POSITIONS &amp; INFERENCES, Concerning <hi>Dipping, Anabaptiſme, Antipaedobaptiſme, Tythes, and Conſecrated Churches.</hi> Wherein the Engliſh Miniſtry is vindicated from Anti-Chriſtianiſme, ſo deeply by him Charged upon them. <hi>Publiſhed in ſpeciall reference to the good of</hi> Mr Cornwells <hi>miſled Congregation.</hi> By <hi>Robert Whittle,</hi> Miniſter of the Word of God at <hi>Eaſt-Malling</hi> in <hi>KENT. Whereunto are annexed.</hi> The fore-mentioned Poſitions of M<hi rend="sup">r</hi> Francis Cornvvell, ENTITVLED, THE NEVV TESTAMENT Ratified with the Blood of the Lord Ieſus, is the <hi>Magna Charta</hi> of Beleevers in Jeſus the Chriſt dipped; by which they are juſtified to be no Heretickes.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. H.</hi> and are to be ſold by <hi>George Badger</hi> in S. <hi>Dunſtans</hi> Churchyard in Fleetſtreet. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:117558:2"/>
+            <pb n="1" facs="tcp:117558:2"/>
+            <head>An Anſwer to Mr. <hi>Francis Cornwells</hi> Poſitions and Inferences, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an ordinarie fault amongſt carnall man, that when they have begotten children in their owne Image, by their over-doating upon them, they make Idolls of them: and that from ſelfe-love, and ſelfe-ſeeking; becauſe they are perſwaded, their children are like them, and themſelves hope to be perpetuated in them: And certainly, this over-doating is more ordinarie upon the Brats of mens owne Braines, in which, though never ſo meane, whileſt men, out of an over-weening eſteeme, pleaſe themſelves, they ſet them up for others alſo. If this were not true, in theſe our clayes of ſo much ſpurious braine-brood, why ſhould Mr. <hi>Cornwell</hi> have ſet up theſe lines, ſo like himſelfe, in print, againſt me and my brethren, the Engliſh Miniſterie? He is not ſuch a ſtranger, or ſo far di<g ref="char:EOLhyphen"/>ſtant from any of us, by him named, but that a private letter might eaſily have paſ<g ref="char:EOLhyphen"/>ſed, &amp; been ſufficient, if not to have ſatisfied each other, yet to have expreſſed any of our parts, eſpecially his or mine: but he over-runs himſelfe into print, and calls me after him. I muſt needs follow, to look upon, and trie (according to his deſire) what he hath ſet up.</p>
+            <p>Concerning this ſubject, whereof I am now to treat, there hath been ſo much already ſpoken, even in theſe our times, by learned men, ſo every way ſatisfacto<g ref="char:EOLhyphen"/>ry to unprejudiced Readers, that it may bee accounted preſumption and folly in me, ſo every way conſcious to my ſelfe of mine owne weakneſſe, to thinke of putting pen to Paper: But that Maſter <hi>Cornwell,</hi> defying the Hoſt of <hi>Iſrael,</hi> the Engliſh Miniſterie, which are the Chariots and Horſemen thereof ſteps forth and warily makes choice of one of the weakeſt to Combate with. I muſt anſwer the Challenge, as being particularly ingaged, to ſatisfie the expectation, and ſetrle the mindes of my people, and (if poſſible) to deliver a ſilly Lambe or twain from the paw of the Beare, or the jawes of the ſhe though not ſubtile Fox, who goes about ſeeking whom he may beguile. Thus then truſting, that I am gir<g ref="char:EOLhyphen"/>ded with the girdle of truth, and that God hath committed to mee, with my Brethren, the Sword of the Spirit, which is mighty in Operation, <hi>Vincat veritas.</hi>
+            </p>
+            <p>By the ſuperſcription, hee ſeemes onely to deſire to juſtifie himſelfe, and thoſe of his Sect from being Hereticks, but in the ſequell, flies upon, and condemnes the whole Engliſh Miniſterie, for Antichriſtian, and denying Chriſt; two hard taskes for his weak hands to undertake: yet hee addes fearefull denunciations a<g ref="char:EOLhyphen"/>gainſt us, and his beſt perſwaſions to draw us to them. As for the name of Here<g ref="char:EOLhyphen"/>tick, whether or no it belong to Maſter <hi>Francis Cornwell,</hi> and thoſe of his Sect
+<pb n="1" facs="tcp:117558:3"/> muſt be tryed, for hence is the quarrell, becauſe I refuſed, and diſſwaded others from his company, upon this ground, becauſe he was an Heretick. And yet ſure<g ref="char:EOLhyphen"/>ly that is the Scriptures rule. <hi>Tit. 3. 10. A man that is an Heretick, after the firſt and ſecond admoniti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, reject,</hi> or avoid. I am <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re Mr. <hi>Cornwell</hi> hath had his firſt and ſecond admon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, both verball, by the Tongues and Pens of the learned Ma<g ref="char:EOLhyphen"/>ſters of the Aſſemblies, Doctor <hi>Featly</hi> and others, whoſe words cannot but bee as Goads and Nailes faſtened in him, <hi>Eccleſ.</hi> 12. 11. making him condemne him himſelfe, <hi>Titus</hi> 3 11. As alſo, hee hath had his admonition by the hand of Ju<g ref="char:EOLhyphen"/>ſtice, and yet perſiſts in his obſtinacy even to the ſeducing and ſub <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſoules, <hi>creeping into houſes, and leading captive ſilly women, laden <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ed away with divers luſts, &amp;c Paul</hi> foretells of ſuch before the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> now they are come, we ſhould not thinke it ſtrange, 2 <hi>Tim.</hi> 3. 1. 6. This word Heretick, I finde but once named in Scripture, and here we ſee it is with a charge of avoiding him; thoſe therefore that uſe the company, and frequenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Con<g ref="char:EOLhyphen"/>gregations of Hereticks, either out of unſeledneſſe, or curioſity, walk contra<g ref="char:EOLhyphen"/>ry to the Scriptures rule, and doe like the Gnat, play with the flame, and thruſt their finger into the fire; for as w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhall finde all Hereſie to bee a fire, ſo this of Anabaptiſme, Wilde-fire, doing much miſchiefe, and not eaſily quen<g ref="char:EOLhyphen"/>ched.</p>
+            <p>I ſhould be glad to heare that Maſter <hi>Cornwell</hi> and his followers, would prove themſelves no Hereticks, their onely way to make it appeare, is by reno<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cing <hi>Anabaptiſme,</hi> and <hi>Antipaedobaptiſime,</hi> how then ſhould we embrace you, as the returned Prodigall, after your miſpent Talents, and as the found ſheep, after your ſo farre wandrings! But you have no cauſe to be angrie with mee, for cal<g ref="char:EOLhyphen"/>ling Anabaptiſts Hereticks; I gave them not that name, but onely called them by that name, by which they are called and knowne to thoſe that write of them as <hi>Muſculus</hi> and others: I might tell you alſo how they are called by <hi>Caloin,</hi> who was not meane inſtrument in the Church of God, <hi>fanatici &amp; phrenetici, mad and frantick,</hi> as all other Hereticks are, 1 <hi>Tim.</hi> 3. 9. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>But I forbeare, and will ſee what Maſter <hi>Cornwell</hi> can ſay for himſelfe: I paſſe over his Super<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cription, wherein hee thruſts himſelfe into ſuch a miſt, that I can ſcarce ſee him; but we ſhall afterwards more plainly diſcover him.</p>
+            <p>Firſt, he layes down two Poſitions, as the foundation of his enſuing diſcourſe, and from thence to conclude, that he and his Sect are no Hereticks, as if Here<g ref="char:EOLhyphen"/>ticks could not profeſſe two knowne truths, and yet be Hereticks in reſpect of other truths.</p>
+            <p>For the firſt; <hi>That there is no ſalvation for any, ſave in the Lord Jeſur Chriſt onely:</hi> He is rather an Inſidell then an Heretick, that being of underſtanding will not profeſſe to believe it.</p>
+            <p>For the ſecond; <hi>That the new Teſtament is the laſt Will and Teſtament of Jeſus the Chriſt, ratified with his owne bloud, and given to the Church of Belee<g ref="char:EOLhyphen"/>vers in Jeſus the Chriſt dipped, together with all the Promiſes, Ordinances, Pri<g ref="char:EOLhyphen"/>viledges, and the inheritance therein bequeathed, (the Teſtator J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus being dead) is now in force, to all Beleevers in Jeſus Chriſts dipped. And no men, nor powers,</hi>
+               <pb n="3" facs="tcp:117558:3"/> 
+               <hi>(by what name or title ſoever diſtinguiſhed) under the penalty of</hi> Anathema Mara<g ref="char:EOLhyphen"/>natha, <hi>(for not loving the Lord Jeſus Chriſt) may adde to it, or detract from it, leſt they diſannull the everlasting Teſtament of the Lord Jeſus, which is to continue untill Chriſts ſecond comming, to reſtore all things,</hi> Rev. 22. 19. Luke 22. 20 <hi>This Cup is the new Teſtament in my bloud ſhed for you; viz. Beleevers in Jeſus the Chriſt dipped.</hi>
+            </p>
+            <p>For the new Teſtament being in <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rce, is not to be queſtioned amongſte us, it is the undoubted Doctrine of the Church of <hi>England;</hi> And the Apoſtle tells us what that Teſtament is, <hi>Hebr. 8. 10, 11, 12. I will put my Lawes in their mind, and write them in their hearts, and I will be to them a God, and they ſhall be to me a people</hi> &amp;c. For Teſtament &amp; Covenant here are both one, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or if you ſpeak of the writings of the Evangeliſts and Apoſtles, which by a Metonymie, are com<g ref="char:EOLhyphen"/>monly knowne by the name of the new Teſtament, we reverence and receive them all, we will be farre from adding to them, or detracting from them. but if you account our receiving the Morall Law and the Prophets, any adding to this new Teſtament, there we leave you to the Anabaptiſts your Brethren; who as <hi>Polanus</hi> tells us; are divided into two Sects, the modeſter reject the writings of the old Teſtament, the other reject the whole Scripture, both old and new Teſtament, and pretend immediate Revelation; you ſeeme to incline to the for<g ref="char:EOLhyphen"/>mer, <hi>but we doe not make void the Law through faith, but we eſtabliſh the Law.</hi> Rom. 3. 31. <hi>And are built upon the foundation of the Apoſtles and Prophets, Je<g ref="char:EOLhyphen"/>ſus Chriſt himſelfe being the chiefe corner-ſtone. Eph.</hi> 2. 20.</p>
+            <p>But ſuppoſe both your Poſitions (as farre as you ſpeak plaine) granted, onely with a reſervation of ſomething to be ſaid concerning your affected Word Dip<g ref="char:EOLhyphen"/>ped, whether you referre it to Chriſt or Beleevers, where you impoſe a neceſſity of it to ſalvation, what will follow hereupon? That you are no Hereticks? Nay in the very firſt conſequence you draw from thence, you ſhew your ſelfe Here<g ref="char:EOLhyphen"/>ticall: For ſay you, <hi>Firſt then, it will neceſſarily follow, that no man nor woman, according to the Scriptures of the new Teſtament. can be ſaved, except they beleeve in Jeſus the Christ, and be dipped,</hi> Mark 16. 6. What? a neceſſity fo Baptiſme to ſal<g ref="char:EOLhyphen"/>vation? So, that none can be ſaved without Baptiſme? the Text by you alledged doth not prove it, what then is this your aſſertion upon it, but an addition to it, and ſo a bringing your ſelfe under your threatned Anathema? the Text threatens indeed Damnation to unbeleevers, but not to the unbaptized. Neither will your following exception helpe you.</p>
+            <p>
+               <hi>Corcerning the ſalvation of the elect, (whom he will ſave in myſticall Baby<g ref="char:EOLhyphen"/>lon, even in the darkeſt times of Poperie and Superſtition) wee meddle not;</hi> ſay you.</p>
+            <p>But how can you meddle with the Salvation of any, if not of the Elect, ſeeing ſalvation belongeth onely to the elect? againe, if you except onely the elect, (whom he will ſave in myſticall <hi>Babylon,</hi> even in the darkeſt times of Poperie and ſuperſtition) what then ſhall become of the Elect, under the light of the Go<g ref="char:EOLhyphen"/>ſpel? ſhall not the foundation of God ſtand ſure for theſe, without mans putting to his helping hand to dip them? Shall their ſalvation depend upon that, which
+<pb n="2" facs="tcp:117558:4"/> is in the power of man to give or deny? I ſhould thinke it blaſphemy in my ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo to limit the power, or reſtraine the grace of God.</p>
+            <p>Againe, ſuppoſe you ſhould convert one to be, and make profeſſion, for matter of faith altogether as your ſelfe, and that he ſhould deſire to be Dipped; if hee ſhould dye (as it is poſſible he might) before you could dip him, were it unpoſſi<g ref="char:EOLhyphen"/>ble for him to be ſaved? It is an ucomfortable Doctrine to your poore Congre<g ref="char:EOLhyphen"/>gation, not any way warrantable by the Word of God: you muſt goe to the Councell of <hi>Trent</hi> for your Warrant, for this your neceſſity, and to <hi>Bellarmine,</hi> for arguments to uphold it, and then in pitty to ſome poore ſoules. ſet up a <hi>Limbu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> or elſe it will downe. The Apoſtle tells us, <hi>that we are juſtified by Faith,</hi> Rom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 28. <hi>and ſaved through faith,</hi> Ephſians 2. 8. Without annexing dipping, why then doe you make Dipping, neceſſary to Salva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion? for that without which a thing cannot be done is abſolutely neceſſarie to the doing of the thing, and of this kinde you make dipping to Salvation.</p>
+            <p>As for your ſecond conſequence, if you underſtand it, of men and women, diſting<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed from children, we account Faith and Baptiſme neceſſarie for their admiſſion and continuance in the communion of Saints: but becauſe you after<g ref="char:EOLhyphen"/>ward require a ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifeſtation of the beliefe of their hearts, by the confeſſion of their lips, and would, for want of this, exclude children from Baptiſme, and the Communion of Saints, we ſhall hereafter examme that more fully. Here you will have Baptized more properly Dipped; and ſo impoſe upon us a neceſſity of Dipping; which is the maine thing wherewith you trouble ignorant people, That their Baptiſme, was no Baptiſme, becauſe they were not dipped.</p>
+            <p>The Queſtion then is, whether Dipping bee neceſſry in Baptiſme? which you and your followers much inſiſt upon. Firſt the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to Baptize, is of a larger ſignification, than, that it can be expreſſed by any one word, in any language, knowne either to you, or me, and therefore that word it ſelfe, borrowed from the Greeks is uſed in moſt languages. It ſignifies, as the Maſters of the Greek tongue declare, as to Dippe, and to dye; ſo to waſh, and to cleanſe, by any ap<g ref="char:EOLhyphen"/>pliction of water to the thing, or the thing to water, as ſprinkiling or powring on of Water, and of a larger extent even in Scripture Phraſe, than all theſe; and therefore not to be reſtrained to your one word dipping. If ſo often as th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Word Baptizing is uſed in Scripture, you ſhould render it by dipping, you would make it ridiculous to your owne Congregation, unleſſe you had prepared them to ſwallow any thing upon your bare word. Doe you think that the waſhing of Tables was by dipping? co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld every houſe have a place fit to dip a Table in? yet it is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Baptiſme, Mark</hi> 7. 4. Let any indifferent reader judge, whether it were proper or fit, to render that <hi>Matth. 3. 11. He ſhall dippe you with the Holy Ghoſt and with fire,</hi> which ſignified the Holy Ghoſts comming upon them, <hi>Acts</hi> 1. 5. 8. being a fulfilling of that Prophefie, <hi>Joel 2. 28. I will powre out my Spirit upon, &amp;c.</hi> Acts 2. 3, 4. <hi>Acts</hi> 2. 16, 17. So that here you ſee by Bapti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing is not meant dipping, but powring upon; and ſo in <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiſme</hi> we powre wa<g ref="char:EOLhyphen"/>ter upon the childe. Or that place, <hi>they were all Baptized to Moſes in the Cloud,</hi>
+               <pb n="5" facs="tcp:117558:4"/> 
+               <hi>and in the Sea, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 10. 2. Will you render it dipped? When the Scripture tells us, that <hi>Iſrael went on drie ground through the middest of the Sea?</hi> Exod. 14. Or can it be imagined that they were dipped in the Cloud, when the Cloud was made a comfortable covering unto them? and it cannoto be conceived, how they were baptized in it, but by the ſprinkling drops that fell from it?</p>
+            <p>The Apoſtle tells us, <hi>Heb.</hi> 9. 10. of divers Waſhings, or different Baptiſmes, yet all be there called <hi>Baptiſmes,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. If there be divers and different ſorts of <hi>Baptiſmes,</hi> why doe you reſtraine the word to one ſort, and that of Dipping? The Apoſtle tells us, ſpeaking of <hi>Baptiſme, Epheſ.</hi> 5. 26. that Chriſt cleanſeth his Church with the waſhing of Water by the Word; ſo that Baptiſme is here called by the generall name of waſhing, which is done other wayes as well as by Dip<g ref="char:EOLhyphen"/>ping, by any application of water to the thing, or the thing to water. The Au<g ref="char:EOLhyphen"/>thor of <hi>Ecleſiaſticus,</hi> who was queſtionleſſe well acquainted with the Ceremonies of the Hebrewes and the language of the Greeks, calleth the ſprinkling of the wa<g ref="char:EOLhyphen"/>er of Purification upon him that touched the dead, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Baptiſmes</hi> from the dead, <hi>Ecclus.</hi> 34. 25. as <hi>Caſaubon</hi> well obſerves. Yet we know that thoſe Baptiſmes were by Gods ſpeciall appointment, but ſprinklings, <hi>Num.</hi> 19. 18. 20. The like manner of Purification had the Heathen both Greeks and Latins: So that the word doth not not ſignifie Dipping onely, but any Waſhing, by pow<g ref="char:EOLhyphen"/>ring on, or ſprinklng of water. Neither can it be proved by Scripture, that ever the Sacrament of <hi>Baptiſme</hi> was adminiſtred by Dipping; no one word ſeemeth to make for it, although ſome urge <hi>Johns</hi> Baptizing of Jeſus, or <hi>Philips</hi> Baptizing of the Eunuch, as for <hi>Johns</hi> Baptizing, the Phraſe Baptizing in <hi>Jordan</hi> implyes Dipping, no more then Baptizing in a Font or Baſon, implyes Dipping in a Font or Baſon: and whereas it is ſaid, Jeſus went up out of the Water, the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is tranſlated out of, ſignifies properly from; ſo that it is, went up from the water; which he might doe without having been in the Water: And as for the Eunuch and <hi>Philip,</hi> they went downe both into the water, and they came up out of the water, ſo they might doe for any kinde of waſhing, as to have water powred upon him as well as to be Dipped, and it is not probable that being in his journey hee was provided. of Cloathes fit to bee dipped in, and if hee was to be ſtripped in the preſence of others, that may ſeem an undecent manner of approaching to Gods Ordinances, unleſſe we will turne <hi>Adamites.</hi> For that in<g ref="char:EOLhyphen"/>ſtance, <hi>Acts</hi> 2. 41. of three thouſand we read not of their going to any River, or place of Waters to be Dipped in, and it would have been a ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d matter to have Dipped three thouſand in one day, according to your manner: neither is it pro<g ref="char:EOLhyphen"/>bable, that the Jaylor, who at midnight was Bahtized, went forth of his houſe, or had in his houſe any conveniency for Dipping; ſo that for ought that can be colle<g ref="char:EOLhyphen"/>cted from Scripture, <hi>Baptiſme</hi> may be adminiſtred by any waſhing of Water, <hi>Eph.</hi> 5. 26. either Dipping, or Sprinkling, or powring on of water. As alſo, the thing ſignified in Baptiſme is as well expreſſed by other application of water, as by Dipping, as that the party Baptized is made partaker of the benefit of Chriſts Bloud-ſhed.</p>
+            <pb n="6" facs="tcp:117558:5"/>
+            <p>The Appoſtle having ſhewed, <hi>Heb.</hi> 9. 13, 14. That the bloud of Chriſt, which was fore-ſignified by thoſe Legall Sprinklings, purgeth the conſcience, exhorteth <hi>Cap.</hi> 10. 22. to draw neare, having our hearts ſprinkled from an evill conſcience, and our bodies waſhed with pure water; what ſprinkling can this be, but of the bloud of Chriſt? and what waſhing of water can, better than ſprinkling, expreſſe, this ſprinkling of Chriſts bloud, which we are Elected unto? 1 <hi>Pet.</hi> 1. 2. Elect unto obedience and ſprinkling of the bloud of Jeſus Chriſt. So alſo Chriſtians <hi>Heb. 12. 24. are come to Jeſus the Mediatour of the New Teſtament, and to the bloud of ſprinkling, that ſpeaketh better things than that of Abell:</hi> which can<g ref="char:EOLhyphen"/>not be underſtood but of the bloud of Jeſus, and becauſe it is called the bloud of ſprinkling, when he is called the Mediatour of the new Covenant, the Sacrament of our admiſſion into this Covenant, cannot better ſignifie and ſeale unto us that bloud of the Covenant, than by ſprinkling: which alſo was fore-ſhewed by thoſe Legall Sprinklings. When the people entred into Covenant with God, and pro<g ref="char:EOLhyphen"/>miſed obedience to what was written in the Booke of the Covenant, <hi>Moſes</hi> ſprinkled the Bloud of the Covenant upon the people: <hi>Exod.</hi> 24. 8. Alſo when <hi>Iſaiah</hi> propheſied of the converſion of many Nations: <hi>Iſa.</hi> 52. 15. he ſetteth it forth under that phraſe of Sprinkling, <hi>He ſhall ſprinkle many Nations:</hi> and how, can they be ſaid to be ſprinkled upon their converſion, but by the Seale of their ad<g ref="char:EOLhyphen"/>miſſion, even <hi>Baptiſme</hi> adminiſtred unto them upon their converſion, in many Nations by Sprinkling? Not that I account Sprinkling neceſſary, or Dipping un<g ref="char:EOLhyphen"/>lawfull in <hi>Baptiſme,</hi> if this were the only difference, we ſhould quickly be recon<g ref="char:EOLhyphen"/>ciled; any decent manner of applying and waſhing with water, is indifferent to ſignifie the application of the benefit of Chriſts bloud to the party baptized. And if it could be proved that <hi>Baptiſme</hi> was adminiſtred by Dipping in the Apoſtles time, yet it would not follow that the Church were therefore neceſſarily tyed to that particular in the adminiſtration, being no Precept for it, more than for any other kind of waſhing: bare Example without Precept bindeth not; we have Chriſts example for adminiſtring the Communion with unleavened bread, after Supper, and in a upper Chamber; yet none will ſay we are bound to follow his example in theſe particulars, becauſe there is no Precept for them. Thus ſuppo<g ref="char:EOLhyphen"/>ſing that Mr <hi>Cornewell</hi> hath laid a good foundation in his poſitions, yet it appeares by his Hay and Stubble, that he hath built upon it, that he hath forgotten the Apo<g ref="char:EOLhyphen"/>ſtles Counſell, 1 <hi>Cor. 3. 10. Let every man take heed how he buildeth thereupon.</hi>
+            </p>
+            <p>Now he begins to ſet up ſomething againſt me and my Brethren to fight againſt: He <hi>hopes it will appeare that Beleevers in Jeſus the Chriſt Dipped, are no Hereticks as Mr Whittle and his Brethren do affirme in publike they are:</hi> Certainly, his ex<g ref="char:EOLhyphen"/>treame weakeneſſe cannot but appeare, in placing me ſo weake and unworthy, in the front of my ſo much worthier Brethren: but where, and when did ever any of us affirme in publike this indefinite propoſition thus indefinitely? which may beare the force of an Univerſall, which none of us will affirme, that all Beleevers are Heretickes; but if you will lay it as a particular, that ſome which profeſſe themſelves Beleevers in Jeſus Chriſt are Heretickes: that will appeare too true; there are more Articles of the Chriſtian faith than one or two to be beleeved, to keepe us from Hereſie.</p>
+            <pb n="7" facs="tcp:117558:5"/>
+            <p>I approve of M. <hi>Cornwels</hi> profeſſion of his faith in Chriſt, as farre as he goeth without making miſ-application of it, in too much reſtraining the ſubject of Bap<g ref="char:EOLhyphen"/>tiſme one way (of which hereafter) and too much enlarging it another way; that voice of the Goſpell, <hi>Acts 2. 38. Be baptized in the name of Jeſus:</hi> belongeth as a Precept only to thoſe which have not as yet been baptized, but if Mr <hi>Corne.</hi> ſhall extend it, to thoſe that have been already baptized, then there will be no end of re-re-rebaptizing, but ſo oft as they heare this voice, <hi>Be baptized,</hi> they muſt be bap<g ref="char:EOLhyphen"/>tized again, till they turne Hemero-baptiſts: Therefore it cannot be (as he preten<g ref="char:EOLhyphen"/>deth) the love of Chriſt, but the ignorance of the will of Chriſt, and a blinde zeale, which conſtained him to ariſe and be baptized, after he had been before baptized.</p>
+            <p>When the <hi>Iſraelites</hi> murmured at their Manna, and called it light bread, the Lord ſent fierie ſerpents among them, which ſtung many of them, even unto death, <hi>Num. 21. 5, 6. Theſe things were types of us, 1 Cor.</hi> 10. 6. When many therefore amongſt us were not content with the ordinary food of their ſoules, the Word ſin<g ref="char:EOLhyphen"/>cerely preached, ſound Doctrine, 2 <hi>Tim.</hi> 4. 3. unleſſe after their luſts, they might have quailes, ſome novelties, ſome new opinions, to feed their humors withall, God hath ſent fierie ſerpents alſo to ſting them, even given them over to an head<g ref="char:EOLhyphen"/>ſtrong, headlong, fierie, blinde zeale, whence have ſprung ſo many here<g ref="char:EOLhyphen"/>ſies, even now in theſe dayes of Reformation; yet my hope is, that as God appoin<g ref="char:EOLhyphen"/>ted a brazen Serpent for their cure, ſo God will give to theſe, eyes to looke up, unto the ſhining firmeneſſe and ſtabilitie of him who is ſo lifted up, and exalted in the preaching of the Goſpell, that they may be healed.</p>
+            <p>Maſter <hi>Cornewell</hi> proceeds from the profeſſion of his faith, to the condemning of others, but a bad manifeſtation of the truth of his faith, which ſhould worke by love; he accuſeth the Engliſh Miniſtry, without any exception, of Anti-Chriſti<g ref="char:EOLhyphen"/>aniſme, <hi>in denying Chriſt in all his Royall Offices.</hi> D. <hi>Featly</hi> cals the Author of his former Book, a brazen-faced Author, and with what face can he lay this accuſation againſt the whole Engliſh Miniſtry? By the hearing of ſome of them, his faith was wrought in him, if he have any, and that might be a ſufficient Seale of their Mi<g ref="char:EOLhyphen"/>niſtry to him: but this accuſation is like a Chancery Bill, wherein he layes many and great things to our charge, and can ſcarcely prove any of the leaſt of them.</p>
+            <p>Firſt, he accuſeth us, that <hi>we deny Chriſt to be come in the fleſh, becauſe we hold up ſome part of the Ceremoniall Law, which Chriſt by his death hath aboliſhed, as Tythes, Temples, &amp;c.</hi> Here we deny that we hold up any part of the Ceremo<g ref="char:EOLhyphen"/>niall Law, which Chriſt by his death hath aboliſhed: your inſtances cannot prove it: they are but of two ſorts, either thoſe which concerne the maintenance of the Miniſtry, or the places of publicke worſhip. As for the maintenance of the Miniſtry, we claime and receive it by the Law of the Land, grounded upon the Word of God, even the Word of the New Teſtament, as appeares by many pla<g ref="char:EOLhyphen"/>ces and therefore a juſt and Chriſtian Law: It is called 1 <hi>Cor.</hi> 9. 14. an Ordinance of the Lord; The Lord hath ordained that they which preach the Goſpell, ſhould live of the Goſpell. The Apoſtle in that Chapter uſeth many Arguments, even from God himſelfe, to confirme the equitie of it; And ſhall men which profeſſe themſelves the ſervants of that God, dare to ſpeake againſt that which God hath ordained, and ſo pleads for? Neither are our Tythes and Offerings any part of the
+<pb n="8" facs="tcp:117558:6"/> Ceremoniall Law: Our Offerings are in lieu of Perſonall Tythes, and ſo all are but Tythes, the right whereof belonged to the Judiciall Law, as the right of inheri<g ref="char:EOLhyphen"/>tance of all the other Tribe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſo Tythes being the right of <hi>Lovies</hi> inheritance: Now the Judiciall Law remaineth ſtill in force concerning the ſubſtance and end of it: as that publicke peace be preſerved, that the good be defended, the wicked puni<g ref="char:EOLhyphen"/>ſhed, and every mans right maintained, by them to whom the ſword is commit<g ref="char:EOLhyphen"/>ted: And if you will affirme that Tythes were a part of the Ceremoniall Law and ſo aboliſhed by Chriſt, you muſt then ſhew how they were ſhadowes, and wher<g ref="char:EOLhyphen"/>of they were types, that Chriſt hath aboliſhed them. As for Miniſters living upon the Goſpell, you cannot in plaine termes deny that, without open rebellion againſt Chriſt; and if Chriſt have not appointed how this livelihood ſhould ariſe, doth it not neceſſarily follow, that it is left to the Judicall power under which we live? which is Gods Ordinance, <hi>Rom. 13. 2. and whoſoever reſiſteth that power, reſi<g ref="char:EOLhyphen"/>ſteth the Ordinance of God.</hi> And whereas you are ſo much diſpleaſed with paying of Tythes, doe but conſider that which you cannot but know, that before the gi<g ref="char:EOLhyphen"/>ving of the Law, Tythes were paid to <hi>Melchizedek Gen.</hi> 14. 20. in his Prieſt<g ref="char:EOLhyphen"/>hood: And though we challenge Tythes as our right, only by that judiciall Law, whereby every mans right is, or ought to be maintained; yet you will never be able to ſhew that any one thing is aboliſhed, which belong to the order of <hi>Melchizedeck;</hi> which order is for ever confirmed in Chriſt: <hi>Heb.</hi> 7. 17. Againe, the payment of Tythes is confirmed by Chriſt himſelfe, being come is the fleſh: <hi>Matth.</hi> 23. 23. And therefore it is not any denyall that he is come in the fleſh, as you blindly, and therefore boldly aſſirme,</p>
+            <p>And why may not that word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo, 1 <hi>Cor.</hi> 9. 14. ſignifie the manner how the Miniſters ſhould live upon the Goſpell? even as the <hi>Levites</hi> did, which was by Tythes?</p>
+            <p>Neither thinke that I thus plead for Tithes, becauſe of the greatneſſe of my living, or for the love of Money, whereof you afterwards accuſe us: It is a ſub<g ref="char:EOLhyphen"/>ject upon which (to my beſt memory) I never yet pleaded in the Pulpit, though juſtly I might, and having lived now nineteene yeares in a Congregation of many hundred people, I never yet ſued, or any way troubled any one of my Congrega<g ref="char:EOLhyphen"/>tion for Tithes, or any other dues, although my ſmall livelihood that way, hath come in only by ſmall Tithes; yet I know not what diſtractions may ariſe from ſuch as you, ſowing your ſeeds of diſtractions amongſt them which formerly lived in peace and love; And if any ſhall hereafter refuſe to pay to their painfull Paſtours their accuſtomed dues, they may juſtly be ſuſpected to have taſted too deepe of your wild Gourd Pottage, wherewith your Auditours are ſo ſwolne in themſelves, and againſt the Miniſtery, and cannot perceive death in the Pot, be<g ref="char:EOLhyphen"/>cauſe they are not of the Sons of the Prophets: But all that I have ſaid, is to vindi<g ref="char:EOLhyphen"/>cate from your ſo falſe and horrible calumnie of denying Chriſt to be come in the fleſh, both the Miniſtery in receiving Tythes, and the Magiſtracy in making and maintaining a Law, for the paying of the ſame, for through the Miniſtery you ſtrike at the Magiſtracy: but it is a plauſible Doctrine to the multitude, with whom you ſtrive to prevaile, firſt cry downe Tythes, under the name of the Cere<g ref="char:EOLhyphen"/>moniall
+<pb n="9" facs="tcp:117558:6"/> Law, then from Chriſtian Liberty cry down all Law, then from wreſting the Apoſtles words, 1 <hi>Cor.</hi> 3. 21. Plead your generall right, ſcrie <hi>All things are yours,</hi> and ſo ſeize upon them; it is the courſe which your Brethren in <hi>Germany</hi> ſteered before you, you cannot denie it.</p>
+            <p>The next thing that offends you is our Temples, (as you call them) Conſecra<g ref="char:EOLhyphen"/>ted places for Worſhip, and miniſtring in our conſecrated places; but why do, you not call them by their uſuall names, our Churches, or thoſe names by which you teach your Diſciples to call them our ſteeple-houſes? theſe are your eye ſore<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, you cannot looke upon them without offence taken, though none given: you can<g ref="char:EOLhyphen"/>not paſſe by them in your mad humour, without ſnapping at them: if you like your chimny corners better, or if you thinke your Barnes and Hogſties as good, (as ſome of you are not aſhamed to affirme) pleaſe your ſelves in your choice, and let us alone with ours, let us not envy one another: But why not conſecrated places for the Worſhip of God? let but your followers know, that by conſecr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted places we meane no more, but places ſanctified to us for our comming toge<g ref="char:EOLhyphen"/>ther for the Worſhip of God, and they ſhall quickly diſcover you; Are not all things ſanctified unto us by the Word of God and Prayer? 1 <hi>Timothy</hi> 4, 5. and wee acknowledge no other Holineſſe in theſe, no inherent Holineſſe, but onely a relative Holineſſe, in reſpect of that uſe for which they are ſet apart, even the publique Worſhip of God: do we not uſually call thoſe places profane, which are as the publike Schooles and Stages of prophaneſſe? why then may we not as well call thoſe places holy, which are ſet apart for the publike teaching, and practice of the duties of holineſſe? why was that place holy where <hi>Moſes</hi> ſtood, where <hi>Jacob</hi> ſlept, but becauſe God manifeſted himſelfe there? And where doth God now ſo manifeſt himſelf as in the publick diſpenſation of his Or<g ref="char:EOLhyphen"/>dinances? are not then theſe places ſanctified unto us for this uſe? you thinke it decent in your private houſe, to have one roome ſet apart of the dreſſing of your meate, another for the eating of it, and another for lodging; and is it not as de<g ref="char:EOLhyphen"/>cent to have one roome ſet apart for the publique Worſhip of God, one houſe in a whole Pariſh? I confeſſe I ſhould account that man but profane, who having built him a dwelling houſe, would not pray to God to bleſſe and ſan<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to him and his, for that uſe for which it was built: and ſhall any man co<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch an height of prophaneſſe, as not to thinke that houſe to be ſanctified unto us by the Word and Prayer, which is ſet apart for the Worſhip of God? for we account not of their Conſecrations by Holy Water and Popiſh Exorciſmes. If you be offended with theſe places, becauſe they were before prophaned by Idolatrous and ſuperſtitious Worſhip, conſider that if they be not now capable of holineſſe, nei<g ref="char:EOLhyphen"/>ther were they before capable of prophanation, nor are they any longer holy or prophane, but in and for their uſe and abuſe.</p>
+            <p>But how come you to be angry with our word Church? ſurely, if you knew but the ſignification of the word, you could not wonder that the people of God, and the houſe ſet apart for thoſe people to meet in, for the Worſhip of God, ſhould be fitly called by that one name Church, or Kyrke, which commeth of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or by contraction of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies no more but the Lords,
+<pb facs="tcp:117558:7"/> or the Lords houſe, now wheras the eart<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lords, and all that is th<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will you not allow him a houſe to be called his? not where he may dwell, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where his ſervants in whom he dwels may meet to ſerve him, where his na<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may be publiquely called upon? If you make our Churches a part of the Ceremo<g ref="char:EOLhyphen"/>niall Law, take heed you do not make all decency and order, and all circumſtances of Worſhip Ceremoniall, and ſo bring in diſorder and confuſion.</p>
+            <p>Thus I hope it will appeare to any indifferent Reader, that we deny not Chriſt to be come in the fleſh, by having places ſet apart to us for the Worſhip of God, or by living upon the Goſpell, when we Preach the Goſpell: do not you rather proove your ſelves worſe then the Heathen? they never denyed a place of Wor<g ref="char:EOLhyphen"/>ſhip, even to their Idolls.</p>
+            <p>And doe not you plead for them that are given to filthy lucre, in denying a c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>taine livelihood to them that preach the Goſpell? and if your ſelfe be a Miniſter of <hi>England,</hi> do you not throw durt in your owne face, when without exceptio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, you thu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condemne the whole Engliſh Miniſtry? but I forbeare, becauſe may be you do it ignorantly, I hope this will ere long be your excuſe.</p>
+            <p>He proceeds to accuſe us for denying Chriſt in all his Offices, <hi>That we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him to be our annointed Prieſt and Prophet, in holding up Infant-Baptiſme; and that we deny him to be our King, becauſe we are not dipped:</hi> with many other abſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ties and falſe accuſations, only charged upon us, and not any waie proved. The Apoſtle commandeth, <hi>not to receeve an accuſation againſt an Elder, under two or three witneſſes: 1 Tim.</hi> 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>19. Surely then he walkes contrary to the Apoſtles <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which layes ſo many and grievous accuſations againſt all the Elders of a whole Nationall Church, without any proofe.</p>
+            <p>He accuſeth us, <hi>for holding and teaching that Beleever-Infants have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> right to heaven, by a fleſhly Covenant.</hi> But when did we ever affirm this? where did we ever teach this Doctrine? It is only the Covenant of Grace that entitleth us to that Kingdome, not a fleſhly Covenant: this we hold, this we teach.</p>
+            <p>And as for your explication of your accuſation, namely, the promiſe of life in Chriſt, belongeth to the Beleever and his Seed, and the Seed and Poſterity of all the faithfull borne within the Church, have by their birth an intereſt into the Co<g ref="char:EOLhyphen"/>venant of Grace, and a right to the Seale of it; we teach no more hereof, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what the Scripture teacheth. The Apoſtle <hi>Acts</hi> 2. 39. when he exhorts them all to be baptized, brings in this as a reaſon, becauſe <hi>the Pro<g ref="char:EOLhyphen"/>miſe is made to you and to your children,</hi> therefore we teach, that the Promiſe which ſhould bring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Baptiſme,</hi> belongs to the faithfull and their ſeed; the Covenant of Grace being the ſame with the faithfull now, in reſpect of the ſubſtance of it, that it was with <hi>Abraham, Gen.</hi> 17. 7. Even that everlaſting Covenant, To be a God unto thee, and to thy ſeed after thee. This was the Covenant confirmed of God in Chriſt, <hi>Gal.</hi> 3. 16, 17. Looking upon all that are in Chriſt as one: <hi>ver.</hi> 16. This Covenant was not diſanulled by the Law: <hi>ver.</hi> 17. either by the giving of the Law, or by the taking away the Ceremoniall part of the ſaid Law by the death of Chriſt: and the Apoſtle tels us plainely, <hi>that all that are in Chriſt are one in him, and Abra<g ref="char:EOLhyphen"/>hams ſeed and heires according to the Promiſe: Gal.</hi> 3. 28, 29. So that you muſt
+<pb n="11" facs="tcp:117558:7"/> either exclude the Children of Beleevers from Chriſt, or give them the ſame intereſt in Chriſt with their Parents, and ſo to be in Covenant with God in Chriſt, and to have a right to the Seale of the Covenant: neither doe I affirme this to be any fleſhly priviledge that gives this right, but the promiſe of God of his free grace, to be a God to them and their ſeed, to ſhew mercy to thouſands. For if the root be holy ſo are the branches, <hi>Rom.</hi> 11. 16. therefore wee account the Children of beleeving Parents holy, 1 <hi>Cor.</hi> 7. 14. with a federall holineſſe, and that from hence, that Gods Covenant is to them and their ſeed. The Covenant therefore belonging unto them, I ſee no reaſon why they ſhould be denyed the initiall Seale thereof, to ſeale unto them the Priviledges of the ſame.</p>
+            <p>Neither doth that which our Saviour ſpeaketh to <hi>Nicodemus,</hi> any way make againſt it, but much for it. <hi>That which is borne of the fleſh is fleſh, and that which is born of the ſpirit is ſpirit, marvail not that I ſay unto you, that you muſt be born again</hi> Joh. 3. 6, 7. &amp; <hi>v. 3. except a man be borne again, he cannot ſee the Kingdom of God.</hi> Our Saviour would give <hi>Nicodemus</hi> &amp; us to underſta<g ref="char:cmbAbbrStroke">̄</g>d, that we muſt take heed that we content not our ſelves in an out-ſide profeſſion, which the Apoſtle calls, having confidence in the fleſh, <hi>Phil.</hi> 3. 3. where the Apoſtle reckons up Circumciſion, as the firſt part of the fleſh, v. 5. and yet we know, that was the Seale of the Cove<g ref="char:EOLhyphen"/>nant of Grace, which God made with <hi>Abraham</hi> and his Seed. As <hi>Paul</hi> durſt not, ſo <hi>Nicodemus</hi> and we muſt not reſt in the outward Ordinance, but in and through theſe we muſt looke, at and for, the worke of Gods Spirit in our hearts. To be borne of the fleſh, even to have <hi>Abraham</hi> for their Father, which the Jewes ſo much reſted upon, did but priviledge the Jewes with the priviledges of a viſible Church, which though great, Rom. 9. 4. <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Adoption, and the glorie, and Cove<g ref="char:EOLhyphen"/>nants, whereupon they are called the children of the Kingdome,</hi> Matth. 8. 1. though to be caſt out, <hi>the Children of the Covenant,</hi> Acts 3. 25. though many of them beleeved not. <hi>And the children of God,</hi> Gen 6. 1. Deut. 14. 1. though with many of them God was not well pleaſed; as <hi>Paul</hi> calls all them of the Churches of <hi>Ga<g ref="char:EOLhyphen"/>latia,</hi> Gal. 3. 26. <hi>Ye are all the Children of God by faith in Chriſt Jeſus,</hi> though we cannot conceive, but that there might be ſome Hypocrites in thoſe Churches: yet as there was, and is, the outward part of the Seale of the Covenant, and the Inward; the outward, Circumciſion of the fleſh, and waſhing with Water: the inward, Circumciſion of the heart and Regeneration; ſo there are the outward Priviledges of the Covenant, and the inward: The outward belonging to all that are within the face of the outward viſible Church, as to have Gods name put up<g ref="char:EOLhyphen"/>on them, to be called his people, and to partake of his Ordinances, which are the meanes of Salvation: The inward belonging onely to the myſticall body of Chriſt quickned by his Spirit; and leſt we ſhould content our ſelves in, and reſt upon the outward, our Saviour ſhewes us the neceſſity of being partakers of the inward part, in the work of Regeneration. Now whereas all were corrupt and loſt in <hi>A<g ref="char:EOLhyphen"/>dam,</hi> as well children as others, and fleſh and bloud cannot enter into the Kingdom of Heaven, there is required, for the ſalvation of children, the renewing of their nature, by the ſecret worke of the Spirit of God in them, theſe beginnings of the Kingdome of heaven, being in them, like a graine of Muſtard-ſeed ſowne in the
+<pb n="12" facs="tcp:117558:8"/> earth, which when it is ſowne, cannot be ſeene or found, by them that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay where is it? or how ſhall it grow? yet he that hath ſowne it, knowe it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there, and though for ſome time it lye hid, yet in due time it ſhall grow up, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd bring forth fruit: ſo are the beginnings of grace in Infants; therefore they ough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to be denyed that Seale, which Chriſt appoynted to be ſet to that grace, which his ſpirit worketh in regenerating and renewing them, Baptiſme being the lav<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Regeneration. If the Papiſts ſhould heare you urge this place againſt the Baptiſme of Infants, they would laugh at you, as being the maine place by which <hi>Bellarmine</hi> and others uſe to prove the neceſſity of their Baptiſme: and many reverend Divines have ſeen and declared a great force in theſe words <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Baptiſme, but never any could ſee any thing in them againſt it, as f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rre as ever I could either read, or any way learne. The Spirit of God moving upon theſe wa<g ref="char:EOLhyphen"/>ters of Baptiſme in this new Creation, or worke of Regeneration, as hee move<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the waters at the firſt Creation; untill God create light in us, freeing us from the powers of darkneſſe, wherein we are by nature; therefore in this particu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> hold your peace, unleſſe you would be ridiculous: Wee affirme not, that genera<g ref="char:EOLhyphen"/>tion can bring our Children to heaven, being all by nature the children of wrath, but that the Infants of Beleevers are the Children of the Kingdom &amp; of the Cove<g ref="char:EOLhyphen"/>nant, though many of them may be caſt out, yet they are within the Covenant, as the Children of the Jewes were, to be partakers of all the outward viſible pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>viledges of the Church; and many of them; even of the Infants of Beleevers, are ingraffed into Chriſt; and ſhall grow up in him to everlaſting life: this is not to deny Chriſt our anointed Prieſt; but for any to deny unto Infants, the benefit of the Covenant, which is ratified to all that are in Chriſt, by his bloud; this is as farre as I conceive, to deny Chriſt to bee the anointed Prieſts for infants, therefore take heed leſt judging others, you condemne your ſelfe.</p>
+            <p>Your next accuſation, is, that we deny Jeſus the Chriſt to be our anointed Pro<g ref="char:EOLhyphen"/>phet, whom we ought to heare in all things, who (ſay you) teacheth, that none are the ſubject of Baptiſme, but ſuch as manifeſt the beliefe of their hearts; by the confeſſion of their lips, and repent of their dead works, yet wee baptize, or (as you ſay) rather rantize Infants, that cannot confeſſe their faith, nor manifeſt their repentance.</p>
+            <p>But where doth Chriſt teach this which you affirme of him? take heed you be not found a falſe Witneſſe againſt Chriſt, you produce for your evidence, <hi>Acts</hi> 8. 38. the Eunuchs example: if Chriſt teach this your Doctrine in this place, it is either in direct Words, or by Conſequenc: In direct Words it is not, the Words being onely a declaration of matter of Fact; and not doctrinall, let us ſee therefore if it may bee collected by conſequence: and becauſe you have not laid your conſequence, I will lay it for you as ſtrongly as I can. The Eunuch was baptized upon confeſſion of his faith required of him, therefore none muſt be baptized, but ſuch as make confeſſion of their faith: I ſhall ſhew you the ſtrength of this conſequence, by another of the like nature: A Father had two ſonnes, the one growne up, the other an infant; the elder askes his Father for food; his father anſwers, if he will worke hee ſhall have food; thus the elder upon his profeſſion to work required of him, receives food; doth it follow, that
+<pb n="13" facs="tcp:117558:8"/> therefore the Infant muſt receive no food, becauſe he doth not make profeſſion that he will worke? this conſequence is as ſtrong as yours can be, and ſomewhat ſtronger, becauſe this is backed with a Precept, (which yours l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks) 2 <hi>Theſ.</hi> 3. 10. if any would not worke, neither ſhould he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate; but you can no where <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d, If any profeſſe not his faith, let him not be baptized. The like may be ſaid concer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing repentance: <hi>Act.</hi> 2. 38. As for rantizing or ſprinkling, I ſuppoſe I have al<g ref="char:EOLhyphen"/>ready cleared it, that that is baptizing.</p>
+            <p>It ſeemes this is all you have to ſay againſt Paedo-baptiſme for the prefers, till afterwards in the cloſe, where I ſhall finde you out: only you are offended with Mr <hi>Bright,</hi> and Mr <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſton</hi> for preaching: That though there be no command from Chriſt, for baptizing Infants, yet there is no command againſt it, therefore they may baptize them. I know not whether this was their Doctrine or not, but I beleeve none of them would teach, or grant, that Chriſt gave no command no for it: you have this but by hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-ſay, from ſome ignorant others: but that there is command againſt it, therefore they may baptize them, this Argument was uſed by <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and others, with whom Mr <hi>Corn</hi> is not worthy nor able to conteſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>In<g ref="char:EOLhyphen"/>fantes ſun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> baptizandi quia unſquam prohibeture</hi> the ſtrength of which reaſon, de<g ref="char:EOLhyphen"/>pends upon the perfection and ſufficiency of the Scripture, that it containes all things neceſſary both for knowledge and practice, either in particulars or gene<g ref="char:EOLhyphen"/>ralls, either directly, or by conſequence, therefore nothing is unlawfull but ther<g ref="char:EOLhyphen"/>in forbidden, nothing neceſſary either to be knowne or done, but therein is re<g ref="char:EOLhyphen"/>vealed and commanded, either you muſt confeſſe this, or with the Papiſts, bring in your unwritten traditions, and ſet up their authority upon that Tence of the Scriptures inſufficiency.</p>
+            <p>As for your application well may your ſoule be ſadded at the conſideration of the the place by you alleadged: <hi>Deut.</hi> 18. 20 if you do but truely lay to heart, that in this very point, you ſpeake that in the name of the Lord, which he hath not com<g ref="char:EOLhyphen"/>manded you to ſpeake, when you to ſay <hi>that Chriſt teacheth, that none are the ſub<g ref="char:EOLhyphen"/>ject of Baptiſms, but ſuch as manifeſt the beliefe of their hearts by the con<g ref="char:EOLhyphen"/>feſſion of their lips;</hi> Chriſt never taught this, you never learned it of him, and yet you teach it: do you herein make Chriſt your annointed Prophet? looke to it.</p>
+            <p>In the next place, you flie upon us for denying Chriſt to be our annointed King, and ſo for open rebellion againſt him: and all becauſe we will not be dipped: we acknowledge but one <hi>Baptiſme,</hi> In the name of the Father, and of the Son, and of the Holy Ghoſt, with which we have been already baptized in our Infan<g ref="char:EOLhyphen"/>cy: and whoſoever ſhall deſpiſe that <hi>Baptiſm:</hi> wherein he was then ſprinkled, or any way waſhed with the bloud of the Covenant, doth he not tread under foot the Son of God, and count the bloud of the Covenant wherewith he was ſancti<g ref="char:EOLhyphen"/>fied, an unholy thing? and doth he not come neare unto offering deſpite to the Spirit of Grace, <hi>Heb.</hi> 10. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. which offered unto him Grace in that initial Seale, and he eſteeme it not? but we have no ſuch cuſtome, nor the Churches of God; yet I hope you may obtaine mercy becauſe you do it ignorantly, unleſſe this ignorance that is in you proceed from the hardneſſe of your heart: <hi>Eph<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> 4. 18 As for your charge of perſecution, you can neither tell when, not whom in par<g ref="char:EOLhyphen"/>ticular
+<pb n="14" facs="tcp:117558:9"/> we have ever yet perſecuted, and I ſuppoſe our Negative may paſſe as well as your Affirmative: if you account our walking contrary to all men, (which you would faſten upon us) any part of perſecution, let any that is impartiall judge whether we, which maintaine our Union and Communion with all the Churches of God, or you and your Sect, which ſeparate from them all, walke more contrary. But many times, they that are themſelves moſt guilty, thinke to excuſe themſelves by accuſing others, <hi>Ahab</hi> is ready to charge the Prophet for troubling <hi>Iſrael,</hi> when it was himſelfe and his father houſe.</p>
+            <p>He proceeds to a relation of his reading concerning the Teſtaments; <hi>He reads but of one,</hi> whereof, <hi>the former made, and to be obſerved by the circumciſed people in their generations, untill the time of Reformation:</hi> now if he underſtand the Books of the Old Teſtament, <hi>Moſes</hi> and the Prophets, that they were to be obſer<g ref="char:EOLhyphen"/>ved only by the circumciſed people, and only till the comming of Chriſt, he will thereby prove himſelfe Hereticall: <hi>Rom.</hi> 3. 31. <hi>Epheſ.</hi> 2. 20. but if he underſtand by Teſtament, the Covenant which God made with his people, then he may read of the Covenant which God made with <hi>Noah</hi> and his ſeed after him: <hi>Gen.</hi> 9. 9. the Covenant which he made with <hi>Abraham</hi> and his ſeed: <hi>Gen.</hi> 17. 7. the Covenant which God made with his people <hi>Iſrael,</hi> when he tooke them by the hand, to bring them out of the Land of <hi>Egypt; Jer.</hi> 31. 32. And the new Cove<g ref="char:EOLhyphen"/>nant, promiſed to the houſe of <hi>Iſrael,</hi> and the houſe of <hi>Judah: Jer.</hi> 31. 31. Which is that new Teſtament, under which we now are: <hi>Heb.</hi> 8. 8. <hi>Heb.</hi> 9: 15. Now then if Mr <hi>Cornewell</hi> have read the Scriptures, he hath read of more Covenants then two, or muſt acknowledge ſome of theſe Covenants to be one and the ſame: and from which of theſe Covenants can it be collected, that the Seale of the Co<g ref="char:EOLhyphen"/>venant doth not belong to Children with their Parents? doth not the forme of them all run, to them and their ſeed, the Children of <hi>Iſrael,</hi> the houſe, without any exception of children? And ſeeing he muſt needs have one laſh more at In<g ref="char:EOLhyphen"/>fant-baptiſme, he takes it from a diſtinction of I know not whom, as if there were one promiſe for the Father, and another for the Seed, whereas we teach, that the ſame Promiſe belongeth to the one and the other, both the Father and his ſeed included in that one promiſe of the Covenant, I will be thy God, and the God of thy ſeed.</p>
+            <p>And whereas Mr. <hi>Cornewell</hi> laies it downe as a ground, that only the Circumci<g ref="char:EOLhyphen"/>ſed <hi>Iſraelites</hi> ſhould keepe the Paſſeover, his collection from hence ſurely is moſt falſe, that <hi>hence the Covenant of circumciſion was given at once to Abraham, and all borne in his houſe, and bought with his mony:</hi> ſurely it was not hence, that <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was circumciſed, that he ſhould eate the Paſſeover, which was not inſtituted in many yeares after <hi>Abrahams</hi> death: And whereas he urgeth <hi>one way for admit<g ref="char:EOLhyphen"/>tance of the father and his ſeed, from hence, that Abraham and all his were circum<g ref="char:EOLhyphen"/>ciſed the ſame day,</hi> doth this make any thing againſt the baptizing of children, when their Parents are baptized? let any indifferent Reader judge if this doth not make for the admiſſion of children with their Parents, as we affirme?</p>
+            <p>In the laſt place he urgeth the Baptiſme of Infants to be contrary to our Cove<g ref="char:EOLhyphen"/>nant, to oppoſe all Popery and Popiſh Innovations, and ſo will make this a Popiſh
+<pb n="15" facs="tcp:117558:9"/> innovation. Where, firſt let him remember, that wee are as well tyed by Cove<g ref="char:EOLhyphen"/>nant, to endeavour the extirpation of all Hereſie and Schiſme, and let him firſt clear himſelf of theſe, before he accuſe us of the other: but let us ſee how he will prove this to be a Popiſh Innovation. He tells us, we joyn with the Apoſtate <hi>Fi<g ref="char:EOLhyphen"/>dus,</hi> and the Councell of the 66 Biſhops in the dayes of <hi>Cyprian.</hi> If <hi>Fidus</hi> were a<g ref="char:EOLhyphen"/>live to anſwer for himſelf, he would returne to Mr. <hi>Cornwell</hi> the name of Apoſtate, and content himſelfe with his old name <hi>Fidus,</hi> by which he hath bin known theſe 1400 years; and whereas the title of Prieſt is caſt upon him, as a reproach, it is no other then Presbyter ſotranſlated by Mr. <hi>Cornwell;</hi> and if it be accounted an Inno<g ref="char:EOLhyphen"/>vation, to joyne with 66 Biſhops, and that glorious Martyr <hi>Cyprian,</hi> faithful Pa<g ref="char:EOLhyphen"/>ſtors aſſembled together in the Primitive times, and that in the received doctrine and practice of the Church of God, continued from the Apoſtles, (as <hi>Origan</hi> and <hi>Auguſtin</hi> witnes concerning the Baptiſme of Infants) which hath ſo good war<g ref="char:EOLhyphen"/>rant from the word of God againſt a Sect ſprung up within leſſe the one hundred and thirty years, firſt ſpread by <hi>St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkins</hi> in <hi>Germany;</hi> if (I ſay) to joyne with theſe, in this, be Innovation, then let us be accounted Covenant-breakers.</p>
+            <p>But let Mr. <hi>Cornwell,</hi> or his adherents ſhew, when ever in the Primitive times the Baptiſme of Children was not in practice in the Primitive Church, or elſe no body of a ſound minde can beleeve it to be an Innovation.</p>
+            <p>The queſtion from <hi>Fidus</hi> to <hi>Cyprian</hi> was, not whether Infants were to bee baptized, or not, but whether or no they were to bee baptized before the eighth day, becauſe Baptiſme ſucceeded in the roome of Circumciſion. To this, <hi>Cyprian</hi> with 66. Biſhops aſſembled together, anſwer'd in his eighth Epiſt. <hi>lib.</hi> 3. <hi>Quan<g ref="char:EOLhyphen"/>tum ad cauſam infantium pertinet, quos dixisti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>intra ſecundum vel tertium diem, quo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atiſunt conſtitutos baptizari non oportere, &amp; conſiderandam legem eſſe circum<g ref="char:EOLhyphen"/>ciſionis antiqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntra octavum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iant, cum qui natus eſt, baptizandum &amp; ſancti<g ref="char:EOLhyphen"/>ficandum non put <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, long<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aliudin concilio noſtro omnibus viſum eſt: in hoc enim quod tu putaba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſſe faciandum, ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o conſenſit, &amp; a Baptiſmo &amp; gratia pro<g ref="char:EOLhyphen"/>hiberi non debet infans receus natus.</hi> None agreed to the not baptizing of Infants, but were all of another minde, even that children, though newly borne, were not to be kep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from Baptiſme. This was then the Doctrine and practice of the Church, and how can you have the face to affirme, that it was left arbitrarie, till in the time of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> the third, it was ratified by a Deor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> under the penalty of Excommunication: you ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been already laſht, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and dare you perſiſt? you cannot but know that this is a meere falſhood of your owne invention, if you doe but open your eyes, and look into any Antiquity, but you thinke none of your Congregation can diſcover it, then do matter. <hi>Innocent</hi> the third lived about the yeare 1198<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Math. Palmerii <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>,</hi> You have taken a leap of above 900 yeares to joyne <hi>Cyprian</hi> and <hi>Innocent</hi> together.</p>
+            <p>When you ſay, <hi>By this Act of</hi> Fidus, <hi>and the Councell of 66. Biſhops, and the Decree of Innocen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius the third, the Nationall Churches have trodden the holy City of Beleevers in Jeſus Chriſt dipped, under fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 42 Moneths, which rec<g ref="char:EOLhyphen"/>koning a day for a yeare, may <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1260 yeares, Rev.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. 2. From whence doe you take your Computations of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1260 yeares? if from <hi>Cyprian</hi> it will
+<pb n="16" facs="tcp:117558:10"/> amount to more by above one hundred and thirty yeares, if from <hi>Innocent,</hi> not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo much by above 800 years, and you cannot reckon from <hi>Fidus</hi> or <hi>Cyprians</hi> time, for your ſelfe confeſſe that in their time, and a long ſeaſon after, untill <hi>Innocent</hi> the third, baptizing of infants was held an arbitrary thing, and therefore that was no trampling of any under foot; for if arbitrarie, all had their liberty; there<g ref="char:EOLhyphen"/>fore your account muſt be from <hi>Innocent</hi> the third, whom you give us both in Figures and words at length, leſt any ſhould thinke you were miſtaken: and here ſure you come ſhort of your reckoning above 800 yeares: will you not confeſſe your ſelfe here at fault? tell your Congregation you were miſtaken, and let them for other things truſt you accordingly.</p>
+            <p>But let us ſee if it were left arbitrary till <hi>Innocent</hi> the thirds time. I ſuppoſe you know, that the Decrees of Councells were ſo binding, that they left nothing a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bitrary which they bound under the penalty of <hi>Anathema,</hi> you may finde a De<g ref="char:EOLhyphen"/>cree in the <hi>Milevitan</hi> Councell many hundred yeares before <hi>Innocent</hi> the third, <hi>Quicunque parvulos recentes ab uteris matrum Baptizandos negat Anathema <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Whoſoever denyeth Children to be Baptized, as ſoon as they are borne, let him be A<g ref="char:EOLhyphen"/>nathema.</hi> Was this to leave it Arbitrarie? And if it had beene Arbitrary, yet from thence it appeares, that it was the practice of the Church in thoſe Primitive times, even whilſt under Perſecution, neither can Mr. <hi>Cornwell</hi> or any other ſhew when ever the Baptizing of Infants was not in practice in the Church of God.</p>
+            <p>And whereas he requires Actuall faith and repentance, as neceſſarie to Bap<g ref="char:EOLhyphen"/>tiſme, he cannot but know that faith and repentance are as neceſſarily required in Scripture phraſe to juſtification and ſalvation, as to Baptiſme, <hi>Luke</hi> 13. 3. <hi>Ex<g ref="char:EOLhyphen"/>cept ye repent ye ſhall all likewiſe periſh,</hi> Rom. 3. 28. <hi>A man is juſtified by faith,</hi> Mark 16. 16. <hi>He that beleeveth not ſhall be damned.</hi> Now if the want of Actuall faith and repentance, (even in the judgements of <hi>Antipad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>baptiſts</hi> themſelves) doe not debarre Children from juſtification and ſalvation, why ſhould it debarre them from Baptiſme? And ſeeing that the bleſſing of <hi>Abraham</hi> is come upon the Gentiles even the Covenant of grace, which God made with <hi>Abraham,</hi> not abrogated, <hi>Gal.</hi> 3. 15. 17. but continued and confirmed to all that are in Chriſt as <hi>Abrahams</hi> ſeed, <hi>verſe</hi> twenty ninth; For that Covenant or Teſtament which the Apoſtle ſpeaks of as the old Teſtament abrogated, was not in reference to the Covenant made with <hi>Abraham,</hi> which was the eſſentiall Covenant of Grace, but in reference to that Covenant which hee made with the Iſ<g ref="char:EOLhyphen"/>raelites, when he took them by the hand to lead them out of the Land of Egypt, as appeares, <hi>Heb.</hi> 8. 8, 9, 13. which as the ſame Apoſtle explaining himſelfe, tells us, ſtood in meats and drinks, and divers waſhings, and carnall Ordinances, <hi>Heb.</hi> 9. 10. Which were outward Ordinances annexed to the Covenant, for its manner of Adminiſtration, yet called by the name of the Covenant, even as Circumciſi<g ref="char:EOLhyphen"/>on alſo is called the Covenant, though but a Signe or Seale of the Covenant, by a Metonymie of the Adjunct: theſe outward Adjuncts are onely abrogated, as it ſtood onely in theſe: but the ſubſtance, I will be thy God, and the God of thy ſeed, continues ſtill firme: God then having ordained a Law, that Children ſhould be within the Covenant, and have the initiall Seale of the Covenant, <hi>Gen.</hi> 17. let
+<pb n="17" facs="tcp:117558:10"/> them ſhew where the Law is repeal'd, that Children may not have the initiall Seale, as well now under the Goſpell, as under the Law; unleſſe Children be by the comming of Chriſt debarred from ſome manifeſtation of Gods grace to them, which before they were partakers of, as to be members of the Church, and to have the initiall Seale of the Covenant, which Baptiſme is to us, as Circumciſion was to them, even a Seale of the righteouſneſſe of faith, <hi>Rom</hi> 4. 11. Baptiſme ſuc<g ref="char:EOLhyphen"/>ceeding in ſtead of Circumciſion, <hi>Col.</hi> 2. 11, 12. where the Apoſtle tells them, they are compleat in Chriſt, not wanting Circumciſion, being Baptized, as is to be collected from that place. As alſo Children belong to the kingdom of God, <hi>Luk.</hi> 18. 16. &amp; how can we let them come to Chriſt, but by Baptiſme? So likewiſe the chil<g ref="char:EOLhyphen"/>dren of Beleevers are holy, 1 <hi>Cor.</hi> 7. 14. and the promiſe belongs to them, <hi>Acts</hi> 2. 39. and they were Typically baptized in the Cloud, and in the red ſea, 1 <hi>Cor.</hi> 10. 2. and we have Chriſts command for Baptizing all Nations, <hi>Matth.</hi> 28. 19. And the Apoſtles examples for Baptizing whole Families, without any excep<g ref="char:EOLhyphen"/>tion of children, which are a great part of a Nation and Family, and not one word in Scripture againſt the Baptizing of children; therefore I can ſee no rea<g ref="char:EOLhyphen"/>ſon, why Children ſhould not bee Baptized; and whoſoever ſhall deſpiſe that Baptiſme, which they received in their Infancy, deſpiſe the Bloud of Chriſt, which was therein offered unto them; and unleſſe they repent of their heinous ſinne, they may juſtly feare, that God hath given them over to ſtrong deluſions, and have great need to pray, as we ſhall be ready to pray for them, that if it be poſſible, this their wickedneſſe may be forgiven them, that they may returne from their wan<g ref="char:EOLhyphen"/>drings, and come home to that great Shepheard, into his owne Fold, to hold the unity of the Spirit in the bond of Peace and love; to the praiſe of the glory of Gods Grace.</p>
+         </div>
+         <div type="tract">
+            <pb n="18" facs="tcp:117558:11"/>
+            <head>The New Teſtament ratified with the blood of the Lord Ieſus, is the Magna Charta of beleevers in Ieſus the Chriſt dipped; by which they are juſtified to be no Heretiques.</head>
+            <head type="sub">Certaine Poſitions ſubſcribed by <hi>Francis Cornwell,</hi> a beleever in Jeſus Chriſt dipped; to be tryed by the Doctrine of Chriſt, whether they be Hereticall, yea or nay.</head>
+            <head type="sub">
+               <hi>Poſition</hi> 1.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there is no ſalvation for any man or woman, ſave in the Lord Jeſus Chriſt onely, <hi>Act.</hi> 4. 12. <hi>There is ſalvation in none other. For there is none other name under Hea<g ref="char:EOLhyphen"/>ven given among men, whereby we muſt be ſaved.</hi>
+            </p>
+            <p>2. That the New Teſtament is the laſt Will and Teſtament of Jeſus the Chriſt, ratified with his owne blood, and given to the Church of beleevers, in Jeſus the Chriſt dipped, together with all the promiſes, ordinances, priviledges, and the inheritance there<g ref="char:EOLhyphen"/>in bequeathed, (the Teſtator Jeſus being dead) is now in force to all beleevers in Jeſus Chriſt dipped. And no men, nor powers, (by what name or title ſoever diſtinguiſhed) under the pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie of an <hi>Anathema Marana<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha,</hi> (for not loving the Lord Jeſus Chriſt) may adde to is, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from it; leſt they diſ-anull the everlaſting Teſtament of the Lord Jeſus, which is to continue un<g ref="char:EOLhyphen"/>till Chriſts ſecond comming to reſtore all things, <hi>Rev.</hi> 22. 19. <hi>Luk.</hi> 22. 20. <hi>This Cup is the New Teſtament in my bloodſhed for you, viz.</hi> beleevers in Jeſus the Chriſt dipped.</p>
+            <p>Theſe Poſitions being granted, which I cannot ſee how otherwiſe under the penaltie of a curſe they can be denyed;</p>
+            <p>Firſt then, it will neceſſarily follow, That no man, nor woman, according to the Scriptures, of the New Teſtament, can be ſaved, except they beleeve in Jeſus the Chriſt, and be dipped, <hi>Mark.</hi> 16. 16.</p>
+            <p>He that beleeveth (in <hi>Jeſus the Chriſt</hi>) and is dipped, ſhall be ſaved. But he that beleeveth not (<hi>viz.</hi> in the Chriſt) is damned; becauſe there is ſalvation in none other, <hi>Mark.</hi> 16. 16.</p>
+            <p>Concerning the ſalvation of the elect (whom he will ſave in myſticall Babylon, even in the dar<g ref="char:EOLhyphen"/>keſt times of Popery and Superſtition;) we meddle not with: becauſe ſecret things belong to God; and revealed things contained in the inſpired Scriptures of the New Teſtament, belong to us.</p>
+            <p>Secondly, no man, nor woman, is a fit ſubject to be admitted into the Church of beleevers in Je<g ref="char:EOLhyphen"/>ſus Chriſt, to continue in the Apoſtles-Doctrine, and fellowſhip, in breaking of bread and pray<g ref="char:EOLhyphen"/>er, according to the Scripture-record of the New Teſtament; unleſſe he or ſhe beleeve in Jeſus the Chriſt, and be baptized: or, more properly in Engliſh, dipped, <hi>Act.</hi> 2. 41. <hi>They which gladly received his word, were dipped, and the ſame day were added to them, (viz.</hi> the congregation of Chriſt gathered, conſiſting of an 120 perſons in one place, both of men and women, <hi>Act.</hi> 1. 4, 15.) <hi>about</hi> 3000 <hi>ſoules. And they continued ſtedfaſtly in the Apoſtles doctrine, and fellowſhip in breaking of bread an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prayer.</hi>
+            </p>
+            <p>Theſe things being thus premiſed; I hope it will appeare plainly to every loyall <hi>Engliſh Cove<g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter,</hi> that ſtandeth for a Reformation in <hi>England,</hi> agreeable to the word of the New Teſta<g ref="char:EOLhyphen"/>ment, ratified with the blood of the Lord Jeſus Chriſt: That beleevers in Jeſus the Chriſt dipped, are no Hereticks, as M. <hi>Whittle,</hi> Miniſter of <hi>Eaſt-Maling</hi> in <hi>Kent,</hi> and his brethren, doe affirme in publick they are: For theſe enſuing Reaſons.</p>
+            <p n="1">1. The Congregations of beleevers in Jeſus the Chriſt dipped, doe confidently affirme in all their teaching; that there is no ſalvation, ſave in the Lord Jeſus the Chriſt onely, <hi>Act.</hi> 4. 12.</p>
+            <p n="2">2. That Jeſus (who was crucified, dead, and riſen, through whom we that beleeve, receive re<g ref="char:EOLhyphen"/>miſſion
+<pb n="19" facs="tcp:117558:11"/> of ſinnes, and are juſtified from all things from which we could not be juſtified by the law of <hi>Moſes, Act.</hi> 13. 39.) even I ſay, that Jeſus in whom we beleeve, and preach, is exalted to be the Chriſt, as holy <hi>Paul</hi> affirmeth, <hi>Act.</hi> 17. 3. and <hi>Peter, Act.</hi> 2. 36.</p>
+            <p n="1">1. The Lord Jeſus is the Chriſt; in Engliſh, <hi>Annoynted of God,</hi> to be our high Prieſt, that of<g ref="char:EOLhyphen"/>fered his owne body in ſacrifice to take away our ſinnes, <hi>Heb.</hi> 10. 10, 14. and that ever liveth to make interceſſion for us, <hi>Heb.</hi> 7. 5.</p>
+            <p n="2">2. He is the Chriſt, in Engliſh, <hi>Annoynted of God,</hi> to be our Prophet (whom the Father of glory commandeth us to heare) <hi>Matth.</hi> 17. 5. <hi>Heare him.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> telleth us the extent how far, <hi>in all thing whatſoever he ſhall ſay unto us, Act.</hi> 3. 22.</p>
+            <p>Elſe the danger followeth, <hi>It ſhall come to paſſe, that every ſoule which refuſeth to heare that Prophet, ſhall be deſtroyed from amongſt the people, Act.</hi> 3. 23.</p>
+            <p>He is the Chriſt; in Engliſh, <hi>Annoynted of God to be our King,</hi> whom the Father of glory hath exalted to be the higheſt power in heaven and earth, <hi>Epheſi.</hi> 2. 20. <hi>Matth.</hi> 28. 18. 22 Chriſt him<g ref="char:EOLhyphen"/>ſelfe acknowledgeth: therefore every ſoule muſt be ſubject in ſpirituall things to this higheſt power. For whoſoever reſiſteth this power, reſiſteth the ordinance of God: and they that reſiſt, receive to themſelves (for not obeying the voyce of the everlaſting Goſpel, that cryeth to them to <hi>repent and be baptized in the name of Jeſus for remiſſion of ſinnes, Act.</hi> 2. 38, 39, 40. compared with 2 <hi>Theſſ.</hi> 1. 6, 7, 8, 9.) <hi>damnation.</hi>
+            </p>
+            <p>Hence it is that we poore deſpiſed beleevers in Jeſus the Chriſt dipt, owne Jeſus the Chriſt to be our eternall high Prieſt, that manifeſted his love to us in the Covenant of Free grace, to dye to take away our iniquitie (who were ſometime fooliſh and diſobedient, &amp;c. <hi>Tit.</hi> 3. 3.) and ever liveth, to reconcile us to the Father of glory. This love diſcovered, cauſed us to hearken to the voyce of Jeſus our Annoynted Prophet; for his voyce is lovely: And when he revealed to us, by his word and good Spirit, that none was the ſubject of baptiſme; but ſuch as beleeve in Jeſus the Chriſt, and repent of their dead works. When this truth was revealed, we hearkned to the voyce of Chriſt onely, as his ſheepe ought to doe, <hi>Job.</hi> 10. and regarded no more the voyce of a ſtranger, the Pope, the Biſhop, the Prieſt. Nay when Chriſt was diſcovered to be our King, and that we were but as Rebels, untill we did obey his command, when he by his good Spirit diſcovered what his commandement was, namely, that we which beleeve in Jeſus Chriſt, muſt repent and be dip<g ref="char:EOLhyphen"/>ped in the name of Jeſus Chriſt: the love of Chriſt our King conſtrained us to ariſe and be dip<g ref="char:EOLhyphen"/>ped in the name of Jeſus Chriſt: as we find 3000 at one time gladly received his word and were dipped, <hi>Act.</hi> 2. 41. Yea, and <hi>Saul</hi> and the cruell Jaylor, being inſtructed what dutie Chriſt requi<g ref="char:EOLhyphen"/>red of them, aroſe and were baptized: Seeing it is written for our everlaſting conſolation, <hi>Chriſt to become the author of eternall ſalvation to them that obey him. Heb.</hi> 5. 8.</p>
+            <p>Now M. <hi>Whittle,</hi> ſeeing you and your brethren, the Engliſh Miniſtery, acknowledge, That there is no ſalvation but in Jeſus Chriſt alone, <hi>Act.</hi> 4. 12. it is your dutie to prove, that the ſame Je<g ref="char:EOLhyphen"/>ſus whom you ſay you preach, is the very Chriſt: namely, that you owne him in all your practi<g ref="char:EOLhyphen"/>ces and ordinances, your Annoynted Prieſt, Prophet, and King; leſt by denying Jeſus the Chriſt, you diſcover your ſelves <hi>Antichriſtian,</hi> 1 <hi>Joh.</hi> 2 22. Now M. <hi>Whittle,</hi> though you and your brethren confeſſe Jeſus to be the Chriſt, with the lips, yet by your practices you deny him in all his royall Offices.</p>
+            <p>Namely, firſt, they which hold up any part of the Ceremoniall Law, which Chriſt by his death hath aboliſhed, deny Jeſus the Chriſt to be come in the fleſh: But you, M <hi>Whittle,</hi> and your bre<g ref="char:EOLhyphen"/>thren the Engliſh Miniſtery, hold up ſome part of the Ceremoniall Law, that Chriſt by his death hath aboliſhed; as Tythes, Temples, <hi>viz.</hi> Conſecrated places for Worſhip, Offerings, and Prieſt<g ref="char:EOLhyphen"/>hood, to receive Tythes, and Miniſter in your Conſecrated places: Therefore you deny Jeſus the Chriſt to be come in the fleſh, whatſoever you ſeeme to profeſſe to the contrary.</p>
+            <p>Secondly, you and your brethren hold and teach, that beleever-infants have a right to heaven by a fleſhly Covenant: Namely, the promiſe of life in Chriſt, belongeth to the beleever and his ſeed, and the ſeed and poſteritie of all the faithfull borne within the Church, have by their birth an intereſt into the Covenant of grace, and a right to the ſeale of it; Baptiſme, (which you ſay) is a ſeale of the infants ingrafture into Chriſt, and union with him, Regeneration, Adopti<g ref="char:EOLhyphen"/>on, Remiſſion of Sinnes, and Life Eternall. Which Doctrine of yours contradicteth the Lord Jeſus Chriſt, who telleth <hi>Nicodemus,</hi> a forme of beleeving <hi>Abraham,</hi> and borne within the Church of the Jewes, and circumciſed the eighth day. <hi>That which is borne of the fleſh, is fleſh; and that</hi>
+               <pb n="20" facs="tcp:117558:12"/> 
+               <hi>which is borne of the Spirit, is Spirit, Marvell not that I ſay unto you; that you muſt be borne a<g ref="char:EOLhyphen"/>gaine,</hi> Joh. 3. 6. So that by the Doctrine of Chriſt, who is Truth it ſelfe, and cannot er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, (though M. <hi>Whittle,</hi> and the whole Engliſh Miniſtery may,) that it is not generation, nor any fleſhly pri<g ref="char:EOLhyphen"/>viledge, can give the Infant of a beleever an intereſt into the Covenant of grace, but Regenera<g ref="char:EOLhyphen"/>tion. Doe you not M. <hi>Whittle,</hi> by this your Aſſertion, deny Chriſt your Annoynted Prieſt; that, (according to the Scriptures) purchaſed eternall life for beleevers? <hi>Act.</hi> 10. 43. 1 <hi>Pet.</hi> 1. 18, 19, 20, 21, 22.</p>
+            <p>Againe, M. <hi>Whittle,</hi> you and your brethren deny Jeſus the Chriſt to be your Annoynted Pro<g ref="char:EOLhyphen"/>phet, whom you are to heare in every thing he ſhall ſay unto you, or your ſoules muſt periſh, <hi>Act.</hi> 3. 22, 23. Now Chriſt teacheth, that none are the ſubject of baptiſme, but ſuch as manifeſt the beliefe of their hearts, by the confeſſion of the lips, <hi>That the Lord Jeſus is the Chriſt,</hi> Act. 8. 38. <hi>And repent of their dead workes, Heb</hi> 6. 1. <hi>Act.</hi> 2. 38. yet you baptize, or rather rantize Infants, that cannot confeſſe their faith in Chriſt, nor manifeſt repentance from dead workes.</p>
+            <p>Yea, M. <hi>Whittle,</hi> ſome of your brethren, as M. <hi>Bright,</hi> M. <hi>Aliſton,</hi> and others, preach and pub<g ref="char:EOLhyphen"/>liſh; though there be no command from Chriſt for baptizing Infants, yet there is no command a<g ref="char:EOLhyphen"/>gainſt it; therefore they may baptize them.</p>
+            <p>Now truely, Sir, my ſoule is ſadded to heare what they affirme, knowing what is written, <hi>Deut.</hi> 18. 20. <hi>That Prophet which ſhall preſume to ſpeake a word in my Name, that I have not commanded him to ſpeake: Even that Prophet ſhall dye.</hi> So that your ſoules are in danger of wrath (my learn<g ref="char:EOLhyphen"/>ed Countrey-men,) if you have not commandment from Chriſt to warrant your Infant baptiſme.</p>
+            <p>Moreover, M. <hi>Whittle,</hi> you and your brethren deny Jeſus Chriſt to be your Annoynted King, in that you yeeld not obedience to his Goſpel-Commandement; namely, <hi>Repent and be baptized every one of you in the Name of Jeſus Chriſt, for remiſſion of ſinnes, and ye ſhall receive the gift of the holy Spirit, Act.</hi> 2. 38. (Seeing they are the firſt Goſpel Commandements with promiſes,) and for your rebellion againſt the Crowne and Dignitie of King Jeſus, and your diſobedience in not obeying the Goſpel of the Lord Jeſus; you can expect no other but to be puniſhed with ever<g ref="char:EOLhyphen"/>laſting perdition, 2 <hi>Theſſ.</hi> 6. 7, 8 9. unleſſe the good Lord perſwade you to change your mind, and be dipped in the Name of Jeſus Chriſt for the remiſſion of your ſinnes, which are very grievous before the Lord.</p>
+            <p>Firſt, your ſinne of perſecution; For you perſecute them that contend for the faith of the Lord Jeſus Chriſt in truth, that you ſeemingly profeſſe: ſo are abominable and diſobedient, &amp;c. <hi>Tit.</hi> 1. 1. 16.</p>
+            <p>Secondly, you ſtand out In rebellion againſt the Crowne and Dignitie of Jeſus Chriſt, <hi>And would not he ſhould reigne over you,</hi> Luk. 19. 27. <hi>Theſe mine enemies that would not I ſhould reigne over them, bring them hither, and ſlay them before me.</hi>
+            </p>
+            <p>Thirdly, the blood of the righteous, that have contended for the faith of the everlaſting Goſ<g ref="char:EOLhyphen"/>pel, once given to the Saints; (that keepe the Commandement of God, and the faith of Jeſus, <hi>Rev.</hi> 14. 12.) cryeth from heaven for vengeance this day againſt you, who now walke in the ſteps of the high Prieſt, and Phariſees of old, who killed the Lord Jeſus, and their owne Prophets, and have perſecuted us, and pleaſe not God, and are contrary to all men, forbidding us to preach the Goſpel to the Nations, that they may be ſaved, to fill up their ſinne alwayes, for the wrath of God is come upon them to the utmoſt, 1 <hi>Theſſ.</hi> 2. 15, 16.</p>
+            <p>But if you have hardened your hearts through the love of money, which is the root of all your evill; Yet good Lord open the underſtanding of the multitude of the people, (that you have ſo long deceived by your pretended holineſſe, and humane learning) that remaine in myſticall Ba<g ref="char:EOLhyphen"/>bylon; yea, and give them a true knowledge to depart from them, and not be partakers of ſinne, denying the Lord Jeſus the Chriſt: Yea, and the good Lord convince them, that they have beene in the number of them that have perſecuted the Lord Jeſus in his members (that have contended for the faith of Jeſus Chriſt) though they did ignorantly, through unbeliefe: ſo that they may trembling cry out, <hi>What ſhall we doe?</hi>
+            </p>
+            <p>Oh let thy good Spirit direct them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to repent of their dead works, and be baptized every one of them in the Name of the Lord Jeſus Chriſt for remiſſion of their ſinnes; yea, and give them the gift of thy holy Spirit, that they may willingly forſake their ſpirituall Aegypt, the pleaſures and profits of this world: <hi>And chuſe rather to ſuffer affliction with the people of God, then enjoy the</hi>
+               <pb n="21" facs="tcp:117558:12"/> 
+               <hi>pleaſures of ſinne for a ſeaſon: yea, and eſteeme the reproach for Chriſt, to be greater riches then all the treaſures of Aegypt; knowing there is a reward of glory ſayd up for them in the higheſt heavens, Heb.</hi> 11. 26.</p>
+            <p>M. <hi>Whittle.</hi> I read in the Scriptures but of two Teſtaments:</p>
+            <p>The firſt was made by the circumciſed people of Iſrael, and ratified with the blood of Calves and Goats, &amp;c. And <hi>Moſes</hi> ſprinkled both the Booke, and all the people, ſaying, <hi>This is the blood of the Covenant that God hath enjoyned you,</hi> Exod. 24. 6, 7, 8. compared with <hi>Heb.</hi> 10. 19, 20. This Teſtament was to continue, and to be obſerved by the circumciſed people in their generation, without any alteration, either by addition or dimunition under the penaltie of a curſe, untill the time of Reformation, <hi>Heb.</hi> 9. 10. Namely, untill Chriſt the ſubſtance of all the ſhadowes was come, and crucified, <hi>Epheſs.</hi> 2. 14, 15.</p>
+            <p>2. The ſecond, or New Teſtament, ratified with the blood of the Lord Jeſus, with all the Pro<g ref="char:EOLhyphen"/>miſes, Ordinances, Priviledges, and the Inheritance therein bequeathed, (the Teſtator Jeſus be<g ref="char:EOLhyphen"/>ing dead) is now in force to beleevers in Jeſus the Chriſt dipped, and is to remaine till Chriſt commeth againe to reſtore all things. And no man or powers (under the penaltie of <hi>Anath<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ma Maranatha)</hi> may adde to it, or detract from it, leſt they diſ-annull this laſt Teſtament, <hi>Rev.</hi> 22. 18, 19.</p>
+            <p>Theſe things being thus premiſed, you may, (God enlightning you) eaſily diſcerne the vani<g ref="char:EOLhyphen"/>tie of that diſtinction that is now in uſe amongſt you of the Engliſh Miniſtery, by which you de<g ref="char:EOLhyphen"/>ceive your ſimple hearers; namely, that there is one promiſe belongeth to the gathering of a Church, and another promiſe belongeth to a Church gathered: Firſt, they ſay, <hi>Abraham</hi> was called and circumciſed, and then his ſeed after him was to be circumciſed. So ſay they, when God calleth his Church from Jewes and Heathen, they muſt firſt beleeve and repent before they are baptized: But when the Church is gathered, then (ſay they) the promiſe belongeth to the belee<g ref="char:EOLhyphen"/>ver, and his ſeed, and the ſeed or infants of beleevers are to be baptized.</p>
+            <p>Now that you may ſee the vanitie of this diſtinction; <hi>Moſes,</hi> that was faithfull in all his houſe, as a ſervant, layeth downe the ſubject matter who ſhould worſhip God in Iſrael, and keepe the Paſſe-over, and the Ordinances thereof; namely, the circumciſed Iſraelites. Hence the Cove<g ref="char:EOLhyphen"/>nant of circumciſion was given at once to <hi>Abraham,</hi> and all borne in his houſe, and bought with his money of any ſtranger which was not of his ſeed: Every male amongſt them muſt be circum<g ref="char:EOLhyphen"/>ciſed the eighth day, or elſe they muſt be cut off from the people; the Covenant was broken. And it is ſaid of <hi>Abraham, that he circumciſed himſelfe and Iſmael his ſon, and all borne in his houſe, and bought with his money the ſelfe-ſame day that God commanded him,</hi> Gen. 17. 9, 10, 11, 12, 13, 14. So <hi>Gen.</hi> 17. 23, 24, 25, 26, 27.</p>
+            <p>And, <hi>If a ſtranger will keepe the Paſſeover to the Lord, let all his Males be circumciſed, and then let them come neere and keepe it: For no uncircumciſed perſon ſhall ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thereof,</hi> Exod. 12. 48. So that there was not on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way for the admittance of the father, and another for the ſeed, but one way for both; and it was to be a token in their fleſh for an everlaſting Covenant: namely, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> keeping the Law, ſhould have the Land of <hi>Canaan</hi> for an everlaſting poſſeſſion, <hi>Gen.</hi> 17. 8, 13.</p>
+            <p>But when Iſrael changed this ſubject-matter; ſhe is called <hi>a rebellious houſe, becauſe ſhe brought in ſtrangers uncircumciſed in fleſh, and uncircumciſed in heart to eate of his bread, and pollute his Sanctuary.</hi> And God chargeth them to <hi>have broken his Covenant,</hi> Ezek. 44. 6, 7. compared with <hi>Gen.</hi> 17. 14. <hi>Exod.</hi> 12. 48. So the Lord Jeſus that was faithfull in all his Houſe, as a Son, which houſe, are we beleevers in Jeſus Chriſt dipped, <hi>Heb.</hi> 3. 6. layeth downe, how his Church ſhould be ga<g ref="char:EOLhyphen"/>thered out of all Nations: namely, by preaching the everlaſting Goſpel: and who ſhall be bapti<g ref="char:EOLhyphen"/>zed; namely, every creature in every Nation that beleeveth in Jeſus Chriſt, and repenteth of his dead workes, ſeeing the New Teſtament holdeth but <hi>one Lord Jeſus Chriſt, one Goſpel-faith, and one Baptiſme:</hi> So that a beleever in Jeſus Chriſt dipped, is the ſubject-matter to worſhip God in his ſpirituall houſe of the New Teſtament; and no man under the penaltie of a curſe, might al<g ref="char:EOLhyphen"/>ter it, <hi>Gal.</hi> 1. 8, 9.</p>
+            <p>And as the Prophet was not to ſhew any of the Iſraelites that had broken the Covenant, in ad<g ref="char:EOLhyphen"/>mitting ſtrangers uncircumciſed in fleſh to come into his Sanctuary, <hi>Ezek.</hi> 44. 6, 7. untill they were aſhamed of their abominations: But if they were aſhamed of all they had done, then they were to ſhew them the forme of the houſe, and the faſhion thereof, the going out thereof, and the comming in thereof, &amp;c. <hi>Ezek.</hi> 43. 10, 11.</p>
+            <pb n="22" facs="tcp:117558:13"/>
+            <p>Neither can you expect (O you that are of the Engliſh Miniſtery,) that the Lord Jeſus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhew you the beautie of his ſpirituall Houſe, and the catring in there at, and the O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof, [So long as (contrary to your Covenant to oppoſe all Popery and Popiſh In<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and to ſee a Reformation agreeable to the Word of God) you joyne with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apoſtate <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prieſt, and the Councell of the 66 Biſhops, in the dayes of <hi>cyprian;</hi> yet in their time, and a long ſeaſon after they held baptizing of infants as an arbitrary thing; untill it was after ratified by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Decree in the time of Pope <hi>Innocentius</hi> 3. under the penaltie of E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>communication for all N<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nall Chruches under the Popes Jurisdiction; to obſerve: Namely, that baptiſme of infan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of be<g ref="char:EOLhyphen"/>leevers ſhould ſucceed circumciſion. And by this Act of <hi>Fidus,</hi> and the Councell of 66 Biſhops, and the Decree of <hi>Innocentius</hi> the third; the Nationall Churches have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roden the holy C<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> beleevers in Jeſus Chriſt dipped under foot, ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re 42 moneths; which, reckoning a day <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> year, may amount to neer 1260 years, Rev. 11. 2.] unleſſe the Lord of his free mercy open your <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the eye-ſalve of his Spirit, and make you aſhamed of all your Traditions of infant-baptiſme, whereby you have enrighted a wrong ſubject to the Promiſes, Ordinances, Priviled g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Inheritance of the Spirituall houſe of the New Teſtament. And when the Lord by his good Spirit ſhall convince you of all the evill you have done in Perſecuting Chriſt in his Members, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contend for the Goſpel faith: and eſpecially for oppoſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g the Lord Jeſus in his Kingly and P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticall Offices in all his outward adminiſtrations in admitting of Members into the ſpirituall Kingdome of the Lord Jeſus: Namely, by repentance from dead workes, confeſſion of faith <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus Chriſt, and baptiſme; which are the three firſt principles of the Doctrine of Chriſt, which all the members of the Churches of <hi>Judea,</hi> which were in Chriſt, tooke up and practiſed be<g ref="char:EOLhyphen"/>fore they were added to the ſpirituall houſe in breaking of bread and prayer, <hi>Heb. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Act.</hi> 2. 41. So that you trembling, cry out, <hi>What ſhall we doe?</hi> The holy Spirit, (by <hi>Peter</hi> that ſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eth) will tell you: <hi>Repent, and be dipped every one of you in the Name of the Lord Ieſus Chriſt for the remiſsion of ſinnes, and yee ſhall receive the gift of the holy Spirit:</hi> Then ſo many of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as ſhall gladly receive his word, ſhall be dipped, and ſhall be added to the Congregation of be<g ref="char:EOLhyphen"/>leevers in Jeſus the Chriſt, to continue in the Doctrine we have received from the Apoſtles, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Sain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fellow-ſhip (that keepe the Commandement of God, and the faith of Jeſus, <hi>Rev.</hi> 14. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. and in breaking of bread and prayer, <hi>Act.</hi> 2. 41. 42.) and have a right to all the Promiſes, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ledges, and Inheritance, that Jeſus Chriſt, according to his New Teſtament, hath purchaſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you that obey his Goſpel, <hi>Heb.</hi> 5. 8.</p>
+            <closer>
+               <signed>Yours, who is adjudged as Hereticks by you; but becauſe he refuſeth to keepe the Traditions of the Elders: but will rather obſerve the Commandement of Chriſt, (as the Phariſees of old upbraided Chriſts owne Diſciples, <hi>Matth.</hi> 15. 2.) yet prayeth, that God would open your underſtandings, that you might underſtand the New Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtament, Chriſt hath ratified with his owne blood, that yee might not ſinne againſt his mercies, and his members; leſt you ſtay your owne ſoules. Francis Cornewell.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
